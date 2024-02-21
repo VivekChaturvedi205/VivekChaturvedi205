@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @VivekChaturvedi205!
+# 👋 Hi, I'm Vivek Chaubey
 
 Welcome to my GitHub! I'm a Python and Django Developer who loves coding and building cool stuff.
 
@@ -11,21 +11,15 @@ Welcome to my GitHub! I'm a Python and Django Developer who loves coding and bui
 
 I've worked on Python and Django projects, creating efficient web applications. Here's a quick overview:
 
-...
-
 ## Education
 
 - **MCA from LPU (Lovely Professional University)**
 - **BCA in Computers from Maharshi Dayanand University Rohtak**
 
-...
-
 ## Certifications
 
 - Python Core from MySirG.com
 - Python for Web using Django from MySirG.com
-
-...
 
 ## Skills
 
@@ -33,6 +27,8 @@ I've worked on Python and Django projects, creating efficient web applications. 
 - JavaScript, React
 - MySQL, PostgreSQL
 - Git, GitHub
+- Docker ,Aws
+- Webautomation, Webscraping
 
 ## Let's Connect!
 
