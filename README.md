@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Python and Django Developer who loves coding and bui
 - 👀 Interested in tech and problem-solving.
 - 🌱 Currently learning JavaScript and React.
 - 💞️ Open to collaborating on web development projects.
-- 📫 Reach me at [vivekchaubey205@gmail.com](mailto:vivekchaubey205@gmail.com) or [LinkedIn](www.linkedin.com/in/vivek-chaubey-10a34a1bb).
+- 📫 Reach me at [vivekchaubey205@gmail.com](mailto:vivekchaubey205@gmail.com) or [LinkedIn]([www.linkedin.com/in/vivek-chaubey-10a34a1bb]).
 
 ## About Me
 
